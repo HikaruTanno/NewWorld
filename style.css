@@ -1,0 +1,138 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+	font-family: "YuGothic","ヒラギノ角ゴ";
+	margin:0px;
+	background-color:#CCFFFF;
+}
+
+li{
+	list-style: none;
+}
+
+.header{
+	background-color:#999999;
+	height:100px;
+	
+}
+
+.header-logo{
+	font-size: 50px;
+	color: #333333;
+	padding-top: 20px;
+	text-align: center;
+
+}
+
+.copy-container{
+	background-color:#00CC99;
+	height:50px;
+	color:#006666;
+}
+
+.copy-container h1 {
+	font-size: 30px;
+}
+
+.main{
+	margin:0px;
+}
+
+.contents{
+	height:500px;
+	padding: 29px ;
+}
+
+.contents-list {
+	float:left;
+	padding-left: 70px;
+	padding-top: 100px
+
+}
+
+
+.contents-list li{
+	border-bottom:2px solid black;
+	font-size: 50px;
+	color: #009999;
+}
+
+span{
+	float:right;
+}
+
+
+img{
+	height: 500px;
+	float:left;
+}
+
+.contents-list2{
+	float: left;
+	padding-left: 70px;
+	padding-top: 100px
+}
+
+.contents-list2 li{
+font-size:50px;
+border-bottom:2px solid black;
+}
+
+.contents2{
+	padding:20px;
+	font-size:30px;
+	margin-left:30px;
+}
+
+.contact-form{
+	padding-left:50px;
+	margin-top: 50px
+}
+
+input,textarea{
+	width:400px;
+	border:1px solid #dee7ec;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+}
+
+.submit{
+	background-color:#dee7ec;
+  color:#889eab;
+}
+
+h2{
+	font-size: 50px;
+	color:#006666;
+	border-bottom:2px solid black;
+	width:380px;
+	margin-bottom:20px;
+}
+
+h3{
+	font-size: 20px;
+	border-bottom: 1px solid black;
+	width:400px;
+}
+
+.footer{
+	background-color:#999999;
+	height:100px; 
+}
+
+.footer-logo{
+	font-size: 50px;
+	color: #333333;
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+
+
